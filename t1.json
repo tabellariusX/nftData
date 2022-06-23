@@ -1,0 +1,22 @@
+{
+    "id": "62b4715ec4da91981b454144",
+    "email": "may_valdez@ecratic.zm",
+    "roles": [
+      "owner"
+    ],
+    "apiKey": "7f67150d-3216-40fe-a41a-4de5ae5bb3e0",
+    "profile": {
+      "dob": "1990-03-30",
+      "name": "May Valdez",
+      "about": "Duis duis velit aliquip proident dolor fugiat fugiat qui exercitation voluptate esse tempor aliqua. Occaecat mollit ex dolore ex do tempor velit mollit sit non duis.",
+      "address": "85 Boerum Street, Vicksburg, Washington",
+      "company": "Ecratic",
+      "location": {
+        "lat": 71.921254,
+        "long": -97.339926
+      }
+    },
+    "username": "may90",
+    "createdAt": "2010-02-15T15:20:34.311Z",
+    "updatedAt": "2010-02-16T15:20:34.311Z"
+  }
